@@ -98,14 +98,11 @@ if _name_ == '_main_':
 
 ## MobileRobot Movement Image:
 
+![image](https://github.com/Dilliarasu0105/mobilerobot-openloopcontrol/assets/144979593/45b7e5e8-22be-4217-831c-3c7afa68f094)
 
-![image](https://github.com/Dilliarasu0105/mobilerobot-openloopcontrol/assets/144979593/8b2c8c24-cfee-460b-9422-e7487bb1baf5)
+![image](https://github.com/Dilliarasu0105/mobilerobot-openloopcontrol/assets/144979593/f192d25f-e69e-4714-ab51-235ca2225be0)
 
-start point:
-![image](https://github.com/Dilliarasu0105/mobilerobot-openloopcontrol/assets/144979593/3eaf3cb5-b417-45c4-857a-ea5797b52954)
 
-End point:
-![image](https://github.com/Dilliarasu0105/mobilerobot-openloopcontrol/assets/144979593/b82eefd1-3afe-4198-a9cf-03203c460cee)
 
 
 ## MobileRobot Movement Video:
